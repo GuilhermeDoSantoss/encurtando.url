@@ -8,6 +8,7 @@ Baixar o pip instal pyshorteners no cmd
 
 import pyshorteners
 
+
 #Entrando com uma URL  que será encurtada
 url = "https://guilhermedosantoss.github.io/Portfolio/"
 
